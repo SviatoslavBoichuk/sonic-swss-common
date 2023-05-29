@@ -424,6 +424,8 @@ namespace swss {
 
 #define CFG_CHASSIS_MODULE_TABLE                    "CHASSIS_MODULE"
 
+#define CFG_BANNER_MESSAGE_TABLE_NAME               "BANNER_MESSAGE"
+
 #define CFG_DHCP_TABLE                              "DHCP_RELAY"
 
 #define CFG_FLOW_COUNTER_ROUTE_PATTERN_TABLE_NAME   "FLOW_COUNTER_ROUTE_PATTERN"
